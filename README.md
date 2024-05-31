@@ -1,3 +1,5 @@
+# AI 개발 실무 14주차 과제 제출
+    
     import pandas as pd
     import Levenshtein
 
